@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body{
+  font-family:"poppins",sans-serif;
+}
+
+/* @keyframes gradient-animation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+} 
+
+ .animate-gradient {
+  background: linear-gradient( to right bottom, #0C1F42, #232842, #FF6F00);
+  background-size: 200% 100%;
+  animation: gradient-animation 10s ease infinite;
+} */
