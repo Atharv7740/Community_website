@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 
 import About from './components/About';
 import Team from './components/Team';
-import Card from './components/Card';
+
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -26,7 +26,7 @@ function App() {
           <Hero />
           <About/>
           <Team/>
-          <Card/>
+         
           
           
           
